@@ -1,0 +1,15 @@
+# Environment variables and secrets
+.env
+.env.*
+
+# Allow an example configuration file
+!.env.example
+
+# Maven build output
+target/
+
+# IDE settings
+.vscode/
+
+# Java compiled files
+*.class
